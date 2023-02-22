@@ -1,5 +1,5 @@
 # java_project
--Projenin amacı bir metin belgesini açıp içindeki kelimelere RegEx yardımıyla kimlik atayıp ( e-mail , web sitesi , sesli harf vb…) sayım yapan bir uygulama geliştirmektir.
+Projenin amacı bir metin belgesini açıp içindeki kelimelere RegEx yardımıyla kimlik atayıp ( e-mail , web sitesi , sesli harf vb…) sayım yapan bir uygulama geliştirmektir.
 GELİŞTİRİLEN YAZILIM:
 Ödev dökümanı iyice incelenip fizibilite araştırması yaptıktan sonra uygulamanın nasıl geliştirileceğine dair fikir yürütüldü. İnternetten RegEx ile ilgili araştırmalar yapılıp bu ifadelerin nasıl yazıldığı iyice öğrenildi.
 Uygulamanın geliştirilebilmesi için RegEx ifadeler çok büyük önem arzediyordu çünkü başka türlü bir sayım stili geliştirmek hem çok karmaşıktı hem de çok fazla kod yazma gerektiriyordu. RegEx ifadeleri hazırlaması da zor ve karmaşıktı fakat kesin bir çözüm getiriyordu. Bu sebeple gerek internetten bulunan hazır ifadeler üzerinde amacımıza göre değişiklikler yaparak , gerek ifadeleri bizzat yazarak RegEx ifadeler oluşturuldu.
